@@ -3,7 +3,7 @@
  */
 /**
  * @author Glennon
- * mglennon@virginiafirst.org
- *
+ *         mglennon@virginiafirst.org
+ * 
  */
 package FTCMgrShared;
